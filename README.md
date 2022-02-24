@@ -18,7 +18,7 @@
 - Norbey Vásquez
 - Luis Porto
 - Luis Salcedo
-- Julian López
+- [Julián López](profiles/julian-lopez.md)
 - Jose Castrillón
 - Jesús Osorio
 - Francisco Huertas
