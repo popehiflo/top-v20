@@ -11,7 +11,7 @@
 - Diego Cubides
 - Boris Monroy
 - Dayan Manrique
-- Wendy Medina
+- [Wendy Medina] (profiles/wendy-medina.md)
 - [Santiago Valencia](sprofiles/santiago-valencia-profile.md)
 - Raúl Lara
 - Paola Barbosa
