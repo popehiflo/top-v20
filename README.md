@@ -11,19 +11,19 @@
 - Diego Cubides
 - Boris Monroy
 - Dayan Manrique
-- [Wendy Medina] (profiles/wendy-medina.md)
+- [Wendy Medina](profiles/wendy-medina.md)
 - [Santiago Valencia](sprofiles/santiago-valencia-profile.md)
 - Raúl Lara
 - Paola Barbosa
 - Norbey Vásquez
 - Luis Porto
-- Luis Salcedo
+- [Luis Salcedo](profiles/luis-salcedo-salas.md)
 - Julian López
 - Jose Castrillón
 - Jesús Osorio
 - Francisco Huertas
 - Diego Beltrán
-- Daniel Arteta
+- [Daniel Arteta](profiles/daniel-arteta.md)
 - Cristian Cortés
 - Carlos Vega
 - Andrés Sástoque
